@@ -18,7 +18,8 @@ import ProtectedRoute from './Admin/ProtectedRoute';
 import PujanList from './Component/PujanList';
 
 import bgImage from './Assest/201077.webp';
-import PujaBooking from './Component/Pujabooking';
+import PujaBooking from './Component/PujaBooking';
+
 import BookingDetails from "./Admin/BookingDetails"
 import GalleryManage from './Admin/GalleryManage';
 
@@ -80,3 +81,4 @@ export default function App() {
     </>
   );
 }
+

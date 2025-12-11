@@ -8,7 +8,7 @@ import Baglamukhihavan from "../Assest/Baglamukhi-Anusthan.webp";
 const pujaData = {
   sammohanTantraPuja: {
     title: "Sammohan Tantra Puja",
-    image: "https://i.ibb.co/xyz/Sammohan-Puja.jpg",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Sammohan Puja Ritual",
     description:
       "The Sammohan Tantra Puja is a powerful spiritual ritual dedicated to invoking the divine grace of Maa Baglamukhi, the goddess of supreme control and enchantment. This puja is believed to enhance attraction, harmony, and influence, helping devotees attract favorable energies and resolve conflicts in relationships and personal life.",
@@ -42,7 +42,7 @@ const pujaData = {
 
   naukriPraptiPuja: {
     title: "Naukri Prapti Puja",
-    image: "https://i.ibb.co/xyz/Naukri-Prapti-Puja.jpg",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Naukri Prapti Puja Ritual",
     description:
       "The Naukri Prapti Puja is a sacred Vedic ritual dedicated to Maa Baglamukhi and other divine forces, performed to remove obstacles in career growth and bless devotees with stable employment opportunities. This puja helps in achieving professional success, overcoming job-related hurdles, and opening new doors of prosperity.",
@@ -76,7 +76,7 @@ const pujaData = {
 
   karyaSiddhiPuja: {
     title: "Karya Siddhi Puja",
-    image: "https://i.ibb.co/xyz/Karya-Siddhi-Puja.jpg",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Karya Siddhi Puja Ritual",
     description:
       "The Karya Siddhi Puja is a powerful Vedic ritual dedicated to achieving success in important endeavors and removing obstacles that block progress. It is performed to invoke divine blessings for the fulfillment of goals, whether personal, professional, or spiritual. This puja ensures clarity, positivity, and smooth completion of desired tasks.",
@@ -110,7 +110,7 @@ const pujaData = {
 
   vastuShantiPuja: {
     title: "Vastu Shanti Puja",
-    image: "https://i.ibb.co/xyz/Vastu-Shanti-Puja.jpg",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Vastu Shanti Puja Ritual",
     description:
       "The Vastu Shanti Puja is a sacred ritual performed to harmonize the energies of a home, office, or land. It removes Vastu doshas (imbalances) caused by improper design or negative energies, inviting peace, prosperity, and spiritual well-being into the space. This puja aligns your dwelling with universal forces, ensuring balance and positivity.",
@@ -144,7 +144,7 @@ const pujaData = {
 
   shatruVinashPuja: {
     title: "Shatru Vinash Puja",
-    image: "https://i.ibb.co/your-image-link/shatru-vinash-puja.jpg",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Shatru Vinash Puja Ritual",
     description:
       "The Shatru Vinash Puja is a potent spiritual ritual performed to destroy enemies and negative influences that obstruct peace, progress, and success. This puja calls upon divine powers to eliminate adversaries and restore harmony in life.",
@@ -178,7 +178,7 @@ const pujaData = {
 
   shatruStambhanPuja: {
     title: "Shatru Stambhan Puja",
-    image: "https://i.ibb.co/your-image-link/shatru-stambhan-puja.jpg",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Shatru Stambhan Puja Ritual",
     description:
       "The Shatru Stambhan Puja is a powerful ritual performed to neutralize enemies, remove obstacles caused by rivals, and restore peace and harmony in personal and professional life. This puja invokes divine energies to protect devotees from harm and malicious influences.",
@@ -212,7 +212,7 @@ const pujaData = {
 
   santanPraptiPuja: {
     title: "Santan Prapti Puja",
-    image: "https://i.ibb.co/your-image-link/santan-prapti-puja.jpg",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Santan Prapti Puja Ritual",
     description:
       "The Santan Prapti Puja is a sacred ritual performed to invoke the blessings of divine energies for fertility, childbirth, and the well-being of offspring. This puja is dedicated to parents desiring healthy progeny and the continuation of family lineage.",
@@ -246,7 +246,7 @@ const pujaData = {
 
   baglamukhiHavanPujan: {
     title: "🔱 Baglamukhi Havan Pujan",
-    image: "Baglamukhihavan",
+    image: "https://t3.ftcdn.net/jpg/15/95/29/82/360_F_1595298230_k6NEjBSCHj3aJWDi7hxAw5VHHh7d2ksR.jpg",
     alt: "Baglamukhi Havan Ritual",
     description:
       "The Baglamukhi Havan Pujan is a sacred fire ritual dedicated to Maa Baglamukhi, the powerful goddess worshipped for protection, victory in legal matters, and removal of enemies. This puja invokes divine energy to overcome negativity and bring success.",
@@ -361,3 +361,4 @@ const PujanList = () => {
 };
 
 export default PujanList;
+

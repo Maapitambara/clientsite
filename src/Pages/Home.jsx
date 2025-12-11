@@ -20,7 +20,8 @@ export default function Home() {
       style={{ backgroundImage: `url(${bgImage})` }}
     >
       {/* ✅ Dark Overlay */}
-      <div className="absolute inset-0 bg-black/40 backdrop-blur-sm z-0"></div>
+      {/* <div className="absolute inset-0 bg-black/40 backdrop-blur-sm z-0"></div> */}
+      <div className="absolute inset-0 bg-black/20 backdrop-blur-[1px] z-0"></div>
 
       {/* ✅ Content Over the Overlay */}
       <div className="relative z-10 text-white text-center px-4">
@@ -45,3 +46,4 @@ export default function Home() {
 </>
   );
 }
+

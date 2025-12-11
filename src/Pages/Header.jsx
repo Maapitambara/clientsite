@@ -11,19 +11,30 @@ import { Languages } from "lucide-react";
  */
 
 const LANGUAGES = [
-  { code: "hi", label: "हिन्दी" },
-  { code: "mr", label: "मराठी" },
-  { code: "ta", label: "தமிழ்" },
-  { code: "te", label: "తెలుగు" },
-  { code: "gu", label: "ગુજરાતી" },
-  { code: "kn", label: "ಕನ್ನಡ" },
-  { code: "ml", label: "മലയാളം" },
-  { code: "bn", label: "বাংলা" },
-  { code: "pa", label: "ਪੰਜਾਬੀ" },
-  { code: "ur", label: "اردو" },
+  { code: "hi", label: "Hindi" },
+  { code: "mr", label: "Marathi" },
+  { code: "ta", label: "Tamil" },
+  { code: "te", label: "Telugu" },
+  { code: "gu", label: "Gujarati" },
+  { code: "kn", label: "Kannada" },
+  { code: "ml", label: "Malayalam" },
+  { code: "bn", label: "Bengali" },
+  { code: "pa", label: "Punjabi" },
+  { code: "ur", label: "Urdu" },
   { code: "en", label: "English" },
-];
 
+  // 🌍 Top globally used languages added  
+  { code: "es", label: "Spanish" },
+  { code: "fr", label: "French" },
+  { code: "de", label: "German" },
+  { code: "zh", label: "Chinese (Mandarin)" },
+  { code: "ar", label: "Arabic" },
+  { code: "ja", label: "Japanese" },
+  { code: "ru", label: "Russian" },
+  { code: "it", label: "Italian" },
+  { code: "pt", label: "Portuguese" },
+  { code: "ko", label: "Korean" }
+];
 
 
 
@@ -67,7 +78,7 @@ const Header = () => {
           {
             pageLanguage: "en",
             includedLanguages:
-              "hi,mr,ta,te,gu,kn,ml,bn,pa,ur,en",
+              "hi,mr,ta,te,gu,kn,ml,bn,pa,ur,en" + "es,fr,de,zh,ar,ja,ru,it,pt,ko",
             autoDisplay: false,
             layout: window.google.translate.TranslateElement.InlineLayout.SIMPLE,
           },
@@ -351,3 +362,4 @@ const Header = () => {
 };
 
 export default Header;
+
